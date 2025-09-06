@@ -54,7 +54,7 @@ The RAG is using Huberman Lab newsletters and Dr. Peter Attia's book Outlive as 
 
 ## Contact
 
-For support, further information, or to contribute to the project, please reach out to me at mrinoybanerjee@gmail.com
+For support, further information, or to contribute to the project, please reach out to me at jatinrana1230987@gmail.com
 
 ## Project Walkthrough
 
